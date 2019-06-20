@@ -1,5 +1,6 @@
 # Collaborative-Multi-Auxiliary-Information-Variational-Autoencoder-for-Recommender-Systems
-
+### 更改声明：
+对于前面发布的代码进行了些许整理，重新发布
 
 
 ### 须知：
